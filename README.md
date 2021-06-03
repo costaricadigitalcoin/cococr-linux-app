@@ -1,7 +1,7 @@
-<h1>Billetera Linux para COCO</h1>
+<h1>Billetera Linux para COCO CR</h1>
 
 Pasos de configuración:<br/>
-1) Ejecutar el archivo cococostarica-qt por medio de la terminal utilizando el comando "./costaricadigitalcoin-qt" estando ubicados en la carpeta donde se encuentra el archivo.<br/>
+1) Ejecutar el archivo cococostarica-qt por medio de la terminal utilizando el comando "./cococostarica-qt" estando ubicados en la carpeta donde se encuentra el archivo.<br/>
 2) Darle click en el botón "Ok".<br/>
 3) Haz click sobre el menu "Herramientas".<br/>
 4) Haz click en "Abrir archivo de configuración de la billetera".<br/>
@@ -18,7 +18,7 @@ addnode=node2.costaricadigitalcoin.com<br/>
 7) Abre nuevamente la aplicación cococostarica-qt igual que en el paso 1 y disfruta de la billetera COCO.
 <br/><br/>
 Configuration steps: <br/>
-1) Execute the cococostarica-qt file through the terminal using the command "./costaricadigitalcoin-qt" being located in the folder where the file is located. <br/>
+1) Execute the cococostarica-qt file through the terminal using the command "./cococostarica-qt" being located in the folder where the file is located. <br/>
 2) Click on the "Ok" button. <br/>
 3) Click on the "Tools" menu. <br/>
 4) Click on "Open wallet configuration file". <br/>
